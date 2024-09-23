@@ -7,6 +7,9 @@
 This project showcases a dynamic, interactive Amazon Sales Dashboard built using Power BI and Power Query. 
 The dashboard visualizes key metrics like sales, profits, product performance, and customer segmentation, helping to derive actionable insights for e-commerce strategies.
 
+https://github.com/goyalsiddhartha1997/Project17_PowerBi_AmazonSalesDashboard/blob/main/SS.png
+Screenshot of the interactive Amazon Sales Dashboard
+
  Key Features 🔍
 
 - Sales Overview: 📈 A comprehensive look at total sales, broken down by product category, region, and time period.
